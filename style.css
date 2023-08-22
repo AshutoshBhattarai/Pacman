@@ -1,0 +1,16 @@
+body{
+   display: flex;
+   justify-content: center;
+   overflow: hidden;
+   height: 100vh;
+   background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+
+}
+#canvas{
+    box-shadow: 10px 10px 20px black;
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
